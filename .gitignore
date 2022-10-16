@@ -1,0 +1,5 @@
+/src/Infrastructure/obj
+/src/Infrastructure/bin
+/src/TestRepository/bin
+/src/TestRepository/obj
+.idea
